@@ -1,1 +1,1 @@
-File yang diambil fotonya adalah Kardus
+Foto yang diambil adalah Kardus
