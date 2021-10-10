@@ -27,7 +27,7 @@
 
         let createCone = function() {
                 let geometry = new THREE.ConeGeometry(0.8, 1.5 , 32);
-                let material = new THREE.MeshBasicMaterial({color: 0x000093});
+                let material = new THREE.MeshLambertMaterial({color: 0x000093});
                 cone = new THREE.Mesh(geometry, material);
                 scene.add(cone);
         }
